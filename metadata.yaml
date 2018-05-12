@@ -1,0 +1,33 @@
+_repo: The-Littlest-Rebel_15414
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Peple, Edward
+    aliases:
+    - Peple, Eduardo
+    - Peple, Edward Henry
+    birthdate: 1869
+    deathdate: 1924
+    gutenberg_agent_id: '3002'
+    url: http://www.gutenberg.org/2009/agents/3002
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Henry_Peple
+description: Poli's Theatre, Washington, D.C., Sylvester Poli, proprietor. The popular
+  Poli Players in "The Littlest Rebel," a play in four acts by Edward Peple, produced
+  under the stage direction of Edwin H. Curtis.
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2005-03-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15414'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Juvenile fiction'
+title: The Littlest Rebel
+url: http://www.gutenberg.org/ebooks/15414
